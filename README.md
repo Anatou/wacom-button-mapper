@@ -1,5 +1,5 @@
 # wacom-button-mapper
-An python program using xsetwacom to map the buttons of your wacom tablet and pen
+A python program using xsetwacom to map the buttons of your wacom tablet and pen
 
 I made this because of a bug preventing me from mapping my button over bluetooth
 
