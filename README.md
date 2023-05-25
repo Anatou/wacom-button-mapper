@@ -3,6 +3,8 @@ An python program using xsetwacom to map the buttons of your wacom tablet and pe
 I made this because of a bug preventing me from mapping my button over bluetooth
 This app is not finished, it's a minimium viable product because I'm lazy
 
+## What do you need for the "app"
 The python script uses os, json, subprocess, and pynput, I know I could cut the number of library by half
+You need all the wacom drivers and library for your system too 
 
 I made a cool logo if you want to make a clean .desktop file from the app
