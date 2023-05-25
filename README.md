@@ -7,4 +7,5 @@ This app is not finished, it's a minimium viable product because I'm lazy
 The python script uses os, json, subprocess, and pynput, I know I could cut the number of library by half
 You need all the wacom drivers and library for your system too 
 
-I made a cool logo if you want to make a clean .desktop file from the app
+## Cool logo
+I made a cool logo if you want to make a nice .desktop file for the app
