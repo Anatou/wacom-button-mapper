@@ -7,4 +7,4 @@ This app is not finished, it's a minimium viable product because I'm lazy. Yes t
 ## Dependences
 python : os, json, subprocess, pyinput
 
-You also need all the wacom drivers and library for your system too, which are already preinstalled for a lot of distributions nowaday
+You also need all the wacom drivers and library for your system too, which are already preinstalled for a lot of distributions nowaday. You specifically need xsetwacom as this app is basically a neater version of this tool
